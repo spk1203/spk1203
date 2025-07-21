@@ -1,6 +1,6 @@
 # Sudhanva P Kikkeri
 
-Cybersecurity Enthusiast | Ethical Hacker (EHE) | BCA Cybersecurity Student  
+Cybersecurity Enthusiast | DevOPS | Ethical Hacker (EHE) | BCA Cybersecurity Student  
 
 ---
 
@@ -22,6 +22,7 @@ Cybersecurity Enthusiast | Ethical Hacker (EHE) | BCA Cybersecurity Student
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
@@ -48,7 +49,6 @@ A simulated phishing toolkit for security awareness, capable of cloning webpages
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=spk1203&show_icons=true&theme=default)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=spk1203&layout=compact&theme=default)
 
 ---
