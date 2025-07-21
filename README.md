@@ -1,6 +1,6 @@
 # Sudhanva P Kikkeri
 
-Cybersecurity Enthusiast | DevOPS | Ethical Hacker (EHE) | BCA Cybersecurity Student  
+Cybersecurity Enthusiast | DevOPS | Ethical Hacker (EHE) |  
 
 ---
 
