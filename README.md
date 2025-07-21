@@ -5,7 +5,7 @@ Cybersecurity Enthusiast | DevOPS | Ethical Hacker (EHE) | BCA Cybersecurity Stu
 ---
 
 ## About Me
-- Pursuing **BCA in Cybersecurity** at Jain University (CGPA: 7.5).
+- Pursuing **BCA in Cybersecurity** at Jain University.
 - Skilled in **penetration testing, Wi-Fi security, VAPT, and SOC workflows**.
 - Experienced with **Selenium automation** for testing and cybersecurity tasks.
 - Interested in building tools for **ethical hacking and cybersecurity research**.
